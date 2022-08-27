@@ -1,1 +1,1 @@
-elastic bean stal link: http://udigram-env.eba-ktnrtkwh.us-east-1.elasticbeanstalk.com/filteredimage?image_url=https://www.wwe.com/f/styles/wwe_16_9_xs/public/all/2022/08/20220826_SD_DrewSami_FC_Ton--80252e4cc61e0af65e15af73fcade0d9.jpg
+http://udigram-env.eba-rginu23f.us-east-1.elasticbeanstalk.com/filteredimage?image_url=https://www.wwe.com/f/styles/wwe_16_9_l/public/all/2022/08/20220826_SD_FinalFC2--5ae59c125ba20459d72d08e7b0f5c28c.jpg
